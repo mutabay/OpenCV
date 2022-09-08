@@ -271,3 +271,5 @@ fabric.properties
 # idea folder, uncomment if you don't need it
 .idea
 >>>>>>> fa169e9 (Tutorial is done. Face Detection is started.)
+
+*.mp4
